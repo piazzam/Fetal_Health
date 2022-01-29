@@ -50,6 +50,6 @@ All the code developed for this project is available in the code folder.
 <br>
 
 <div align = "center">
-  <a href = "/"><img src="https://gitlab.com/marcoplaza98/images/-/blob/main/linkedin.png" width = "3%"> </a>
+  <a href = "/">Linkedin profile </a>
 </div>
 
