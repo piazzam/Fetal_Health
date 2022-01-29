@@ -40,7 +40,7 @@ All the code developed for this project is available in the code folder.
 <br>
 
 <div align = "center">
-  <a href = "https://www.linkedin.com/in/marco-piazza-/">Linkedin profile</a>
+  <a href = "https://www.linkedin.com/in/marco-piazza-/"><img src="https://gitlab.com/marcoplaza98/images/-/blob/5191878ee1c08f462031fb7e543d7cb707550cc6/linkedin.png" width = "3%"></a>
 </div>
 
 &#8860; &nbsp; **Elisa Cazzaniga**
