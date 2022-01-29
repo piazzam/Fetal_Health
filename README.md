@@ -40,7 +40,7 @@ All the code developed for this project is available in the code folder.
 <br>
 
 <div align = "center">
-  <a href = "https://www.linkedin.com/in/marco-piazza-/">
+  <a href = "https://www.linkedin.com/in/marco-piazza-/"><img src="https://gitlab.com/marcoplaza98/images/-/blob/main/linkedin.png" width = "3%"></a>
 
 &#8860; &nbsp; **Elisa Cazzaniga**
 
@@ -49,6 +49,6 @@ All the code developed for this project is available in the code folder.
 <br>
 
 <div align = "center">
-  <a href = "/"> width = "3%"></a>
+  <a href = "/"><img src="https://gitlab.com/marcoplaza98/images/-/blob/main/linkedin.png" width = "3%"> </a>
 </div>
 
