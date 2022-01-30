@@ -5,7 +5,6 @@
 
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#references">&nbsp; References &nbsp;</a> |
-  <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#relation">&nbsp; Relation &nbsp;</a> |
   <a href="#code">&nbsp; Code &nbsp;</a> |
   <a href="#team">&nbsp; Team &nbsp;</a>
