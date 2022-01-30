@@ -28,7 +28,7 @@ The relation of this project and the presentation are available in the Relation 
 
 <a name="code"></a>
 ## &#9741; &nbsp; Code
-All the code developed for this project is available in the code folder.
+This project is developed in R. All the code is available in the code folder.
 
 <a name="team"></a>
 ## &#9741; &nbsp; Team
