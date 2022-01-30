@@ -46,7 +46,7 @@ All the code developed for this project is available in the code folder.
 &#8860; &nbsp; **Elisa Cazzaniga**
 
 - *Current Studies*: Computer Science Msc Student @ Università degli Studi di Milano-Bicocca (Unimib) ;
-- *Background*: Bachelor degree in Comnputer Science @ Università degli Studi di Milano-Bicocca (Unimib).
+- *Background*: Bachelor degree in Computer Science @ Università degli Studi di Milano-Bicocca (Unimib).
 <br>
 
 <div align = "center">
